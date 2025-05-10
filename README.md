@@ -21,6 +21,7 @@ Automatizar processos repetitivos (Python + automação).
 Criar pontes entre tecnologia e necessidades institucionais.
 
 📫Vamos conversar?
+
 https://www.linkedin.com/in/luciana-lima33
 
 luciana.ruth.lima3@gmail.com
