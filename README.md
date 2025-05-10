@@ -1,1 +1,1 @@
-Oi, sou a Luciana Lima
+Oi, sou Luciana Lima
